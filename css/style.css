@@ -96,7 +96,7 @@ button:hover {
         font-size: 35px;
         margin-top: 40px;
         margin-left: 80px;
-        padding-right: 180px;
+        padding-right: 100px;
         text-align: left;
     }
     p {
@@ -105,7 +105,7 @@ button:hover {
         font-weight: thin;
         line-height: 1.8;
         text-align: left;
-        padding-right: 80px;
+        padding-right: 50px;
     }
 
     button {
@@ -131,14 +131,14 @@ button:hover {
 
     .left {
         float: left;
-        height: 600px;
+        height: 500px;
         width: 45%; 
     }
 
     .right {
         float: right;
         width: 50%;
-        height: 600px; 
+        height: 500px; 
     }
 
     button:hover {
